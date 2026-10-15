@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyCharm settings
+.idea/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local credentials
+.env
+.env.*
+
+# Downloaded and generated data
+data/raw/
+data/processed/
+
+# macOS files
+.DS_Store
