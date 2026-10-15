@@ -1,7 +1,7 @@
 # NBA Player Value
 
 An analysis of NBA players' completed-season performance relative
-to their compensation.
+to their same-season salary.
 
 ## Project question
 
@@ -15,6 +15,8 @@ expected for their salary in the same season?
 - Season-specific salary rather than contract average annual value.
 - Contract context, including rookie-scale contracts.
 - Separate views of total contribution and performance when available.
+- Base salary initially; earned bonuses may be incorporated later
+  if reliable data is available.
 
 ## Status
 
